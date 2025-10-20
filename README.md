@@ -6,7 +6,7 @@ Link 2 Course => https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4
 
 Program Description => This Book Is A Prerequisite For My Bash Script Course
 
-author => Moein Heshmati
+Author => Moein Heshmati
 
 Operating System => Linux
 
